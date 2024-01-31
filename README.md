@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juanhuguet
+- 👀 I’m interested in operationalizating large language models and creating AI-based solutions
+- 🌱 I’m currently learning the above ! learning by doing ! 
+- 📫 How to reach me: just write me an email or find me in linkedin
+- ⚡ Fun fact: cells are powered by proton gradients !
